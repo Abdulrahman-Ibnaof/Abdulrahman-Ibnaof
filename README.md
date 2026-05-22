@@ -65,13 +65,23 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Courses
 
-| Certification | Provider |
+**Certifications:**
+
+| Badge | Certification | Provider |
+|---|---|---|
+| ✅ | AWS Solutions Architect — Professional | Amazon Web Services |
+
+**Courses Completed:**
+
+| Course | |
 |---|---|
-| ☁️ AWS Solutions Architect Professional / Cloud Practitioner | Amazon Web Services |
-| 🔵 Azure Fundamentals / Administrator | Microsoft |
-| 🟡 Google Cloud Associate Engineer | Google Cloud |
+| Microsoft Azure | Google Cloud |
+| Ansible | Kubernetes (k8s) |
+| Docker | Terraform |
+| Jenkins | Grafana |
+| Prometheus | |
 
 ---
 
